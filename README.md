@@ -1,6 +1,7 @@
 # Stock Market Analysis for Tech Stocks
 I am using Pandas to extract and analyse information, visualise it and look at different ways to analyse risk of a stock, based on its performance history.
 stocks tasken are as: ['AAPL','GOOGL','MSFT','AMZN']
+
 `Here are the questions I am trying to answer:`
 1. What was change in a stock's price over time?
 2. What was daily return average of a stock?
@@ -16,4 +17,4 @@ Question | Visualization
 `Moving avg for decided days` | ![image](https://user-images.githubusercontent.com/26667491/128809974-0a3c7f77-e092-4cdc-89a3-f1a79a3b3480.png)
 `Daily return avg of AAPL stock` | ![image](https://user-images.githubusercontent.com/26667491/128810064-0993fb39-79f9-4f0f-910b-8ebf08ccd7b6.png) ![image](https://user-images.githubusercontent.com/26667491/128810085-dbbafaf6-bf2b-4bc0-bc1c-7bcd82b7f804.png)
 
-
+Note: work on progress
