@@ -1,4 +1,6 @@
 # Stock Market Analysis for Tech Stocks
+I am using Pandas to extract and analyse information, visualise it and look at different ways to analyse risk of a stock, based on its performance history.
+stocks tasken are as: ['AAPL','GOOGL','MSFT','AMZN']
 `Here are the questions I am trying to answer:`
 1. What was change in a stock's price over time?
 2. What was daily return average of a stock?
