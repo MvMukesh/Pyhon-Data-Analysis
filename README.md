@@ -16,5 +16,3 @@ Question | Visualization
 `Stocks Volume Being Traded over time` | ![image](https://user-images.githubusercontent.com/26667491/128809868-41e63922-2781-439e-8cb7-869c90a1d3be.png)
 `Moving avg for decided days` | ![image](https://user-images.githubusercontent.com/26667491/128809974-0a3c7f77-e092-4cdc-89a3-f1a79a3b3480.png)
 `Daily return avg of AAPL stock` | ![image](https://user-images.githubusercontent.com/26667491/128810064-0993fb39-79f9-4f0f-910b-8ebf08ccd7b6.png) ![image](https://user-images.githubusercontent.com/26667491/128810085-dbbafaf6-bf2b-4bc0-bc1c-7bcd82b7f804.png)
-
-Note: This is a simulation of what I did with TechSim+
